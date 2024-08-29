@@ -1,44 +1,27 @@
-## README Maker
+# README Maker
 
-README Maker is a Small Application That Takes User Feedback and Creates a Professional README.md File for the User
-
-## User Story
-
-GIVEN a command-line application that accepts user input
-
-WHEN I am prompted for information about my application repository
-
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-
-WHEN I enter my project title
-
-THEN this is displayed as the title of the README
-
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-
-WHEN I choose a license for my application from a list of options
-
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License 
-that explains which license the application is covered under
-
-WHEN I enter my GitHub username
-
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-
-WHEN I enter my email address
-
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-
-WHEN I click on the links in the Table of Contents
-
-THEN I am taken to the corresponding section of the README
+README Maker is an Easy to Use Application That Takes User Inputs and Creates a Professional Markdown File for the User
 
 ## Installations
 
-README Maker Uses Inquirer, and FS
+README Maker Requires Node.js and the Installation of Code From Inquirer and fs
+
+## Usage
+
+ - You Can Trigger the Node.js Command Using "node index.js"
+
+ - You Will Then Be Asked Several Questions, These Will Be Used to Fill in Your Markdown File
+
+ - The Command Line Will Tell You Once Your Markdown File Has Been Generated and The File "YourREADME.md" Will Have Been Created
+
+## Demonstration
+
+Click This [Link](https://drive.google.com/file/d/1Dp7Hhzj39eiP92WUYKizfDO4DVPYO2dD/view) to See a Short Demo of the Application (You May Have to Adjust the Quality in the Video Settings)
 
 ## Licenses
 
-README Maker Uses An MIT License
+README Maker Is Licensed Under An MIT License
+
+## GitHub Link
+
+[https://github.com/CoopDouce/README-Maker](https://github.com/CoopDouce/README-Maker)
