@@ -55,7 +55,20 @@ inquirer
 ## Description
  ${answers.description}
 ## Table Of Contents
-  
+Use These Links to Navigate the README File:
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[Contributing](#contributing)
+
+[Tests](#tests)
+
+[License](#license)
+
+[Questions](#questions)
+
 ## Installation
  ${answers.install}
 ## Usage
@@ -66,12 +79,9 @@ inquirer
  ${answers.testIns}
 ## License
  This Project uses: ${answers.license}
-## Questions
-    
-## GitHub
+## Questions 
  My GitHub link is: ${answers.gitHub}
-    
-## Email
+
  My Email Address is: ${answers.email}`
  }
 
@@ -84,3 +94,8 @@ inquirer
         }
     })
  }
+
+
+ // Still Needed:
+
+ // Media for License/Implementing Markdown
